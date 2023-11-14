@@ -1,14 +1,14 @@
 name: dart_application_1
-description: A sample command-line application.
+description: projeto referente ao curso de dart fundamentos da academia do flutter
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/bglassesgirl/dart_fundamentos
 
 environment:
   sdk: ^3.1.2
 
 # Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
+  path: ^1.8.0
 
 dev_dependencies:
   lints: ^2.0.0
