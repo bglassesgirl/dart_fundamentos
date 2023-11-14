@@ -1,10 +1,10 @@
 void main(){
 
-    final sexo = 'M';
-    final idade = '18';
+    String sexo = 'M';
+    int idade = 18;
 
     // operador E (&&)
-    if( sexo == 'M' && idade >= 18  && sexo != 'F'){
+    if( sexo == 'M' && idade >= 18 && sexo != 'F'){
         print('PODE ENTAR');
     }else{
       print('nao pode entrar');
