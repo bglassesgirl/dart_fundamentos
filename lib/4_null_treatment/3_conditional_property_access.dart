@@ -10,7 +10,7 @@ void main(){
       print('nao aparece nada');
      }
 
-    //  conditional property access
+     //  conditional property access
      print(nomeCompleto?.toUpperCase() ?? 'nome nao registrado na lista');
 
 }
