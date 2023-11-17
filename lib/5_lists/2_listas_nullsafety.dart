@@ -1,8 +1,5 @@
 void main(){
-
-
   var lista = <String>[];
-
 
   // dessa froma o dart nao aceita
   // nem a lista e nem os items poodem ser nulos
