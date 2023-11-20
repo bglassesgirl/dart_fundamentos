@@ -27,7 +27,7 @@ void funcao(List<String> nomes){
    if (nomes.isNotEmpty) {
     }
 }
-List<Stirng> add(List<String> nomes){
+List<String> add(List<String> nomes){
    var novosNomes = [...nomes];
    novosNomes.add('maria');
    return novosNomes;
