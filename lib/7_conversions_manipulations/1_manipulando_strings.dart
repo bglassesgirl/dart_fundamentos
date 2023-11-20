@@ -47,7 +47,7 @@ void main(){
   print('ultimo nome; ');
   for (var estudante in estudantesIfba) {
      var dadosEstudante = estudante.split('|');
-     var nomeCompleto= dadosEstudante[0];
+     var nomeCompleto = dadosEstudante[0];
      var nomes = nomeCompleto.split(' ');
      print(nomes.last);
   }

@@ -1,6 +1,6 @@
 void main(){
 
-    String sexo = 'M';
+    var sexo = 'M';
     int idade = 18;
 
     // operador E (&&)

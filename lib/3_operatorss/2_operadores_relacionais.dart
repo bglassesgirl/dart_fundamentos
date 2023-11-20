@@ -11,7 +11,7 @@ void main(){
   final tipoPet = 'gato';
 
   //regras de negocio
-  if (idade ==18) {
+  if (idade == 18) {
     print('Pode tirar habilitação');
   }
 
