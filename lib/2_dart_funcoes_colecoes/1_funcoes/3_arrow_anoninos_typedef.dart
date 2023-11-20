@@ -23,7 +23,6 @@ void main(){
   //  typedef
 }
 
-
 int soma (int numero, int numerob){
    return  numero + numerob;
 }
