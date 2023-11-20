@@ -14,8 +14,6 @@ void main(){
 
   // parametro opcional
   somaIntOptional();
-  somaIntOptional(1);
-  somaIntOptional(1,1);
 
   parametrosNormaisComNomeados(1, nome: 'Luana', idade: 20);
 }
