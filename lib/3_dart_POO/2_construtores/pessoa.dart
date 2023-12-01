@@ -35,5 +35,5 @@ class Pessoa {
     var pessoa = Pessoa.vazia();
     pessoa.nome = nome;
     return pessoa;
-  };
+  }
 }
